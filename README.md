@@ -4,9 +4,10 @@ A flutter project to learn UI skills, shows travel destinations
 
 ## Tech Stack
 
+<p>
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original-wordmark.svg" />
-          
+</p>         
 
 ## Getting Started
 
